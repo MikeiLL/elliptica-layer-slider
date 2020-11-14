@@ -1,0 +1,16 @@
+{
+  "name": "mikeill/elliptica-layer-slider",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/mikeill/elliptica-layer-slider",
+  "authors": [
+    {
+      "name": "Avada Fusion",
+      "homepage": "https://theme-fusion.com/avada-website-builder"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.6"
+  }
+}
